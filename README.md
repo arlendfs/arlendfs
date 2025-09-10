@@ -27,6 +27,6 @@ Olá, me chamo **Arlen**, sou de Minas Gerais, Brazil. Atualmente estudante de d
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/reactjs_j5WbdQuuJ.png" alt="react" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/github_CEhhSRJdrr.png" alt="github" height="40"/>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkyn25" alt="arkyn25" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlendfs" alt="arlendfs" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arkyn25&show_icons=true&hide=issues,contribs" alt="arkyn25" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arlendfs&show_icons=true&hide=issues,contribs" alt="arlendfs" /></p>
